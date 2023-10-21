@@ -12,3 +12,8 @@ Demo projects - dump here your code.
     OPENAI_API_KEY=
     OPENAI_ORGANISATION_ID=
     ```
+
+
+## References
+- https://huggingface.co/
+- 
